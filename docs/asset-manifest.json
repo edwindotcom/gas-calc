@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.afccbaf1.chunk.css",
-    "main.js": "/static/js/main.86ebeee9.chunk.js",
-    "main.js.map": "/static/js/main.86ebeee9.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a4a8d120.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a4a8d120.js.map",
-    "static/js/2.ee73f4b8.chunk.js": "/static/js/2.ee73f4b8.chunk.js",
-    "static/js/2.ee73f4b8.chunk.js.map": "/static/js/2.ee73f4b8.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.8981fd8dc4fa97a586ad5d9be69fc94c.js": "/precache-manifest.8981fd8dc4fa97a586ad5d9be69fc94c.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.afccbaf1.chunk.css.map": "/static/css/main.afccbaf1.chunk.css.map",
-    "static/js/2.ee73f4b8.chunk.js.LICENSE.txt": "/static/js/2.ee73f4b8.chunk.js.LICENSE.txt"
+    "main.css": "/gas-calc/static/css/main.afccbaf1.chunk.css",
+    "main.js": "/gas-calc/static/js/main.7f16a5e6.chunk.js",
+    "main.js.map": "/gas-calc/static/js/main.7f16a5e6.chunk.js.map",
+    "runtime-main.js": "/gas-calc/static/js/runtime-main.24158f45.js",
+    "runtime-main.js.map": "/gas-calc/static/js/runtime-main.24158f45.js.map",
+    "static/js/2.ee73f4b8.chunk.js": "/gas-calc/static/js/2.ee73f4b8.chunk.js",
+    "static/js/2.ee73f4b8.chunk.js.map": "/gas-calc/static/js/2.ee73f4b8.chunk.js.map",
+    "index.html": "/gas-calc/index.html",
+    "precache-manifest.8cccdebd6d836246501f00130bf20e24.js": "/gas-calc/precache-manifest.8cccdebd6d836246501f00130bf20e24.js",
+    "service-worker.js": "/gas-calc/service-worker.js",
+    "static/css/main.afccbaf1.chunk.css.map": "/gas-calc/static/css/main.afccbaf1.chunk.css.map",
+    "static/js/2.ee73f4b8.chunk.js.LICENSE.txt": "/gas-calc/static/js/2.ee73f4b8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a4a8d120.js",
+    "static/js/runtime-main.24158f45.js",
     "static/js/2.ee73f4b8.chunk.js",
     "static/css/main.afccbaf1.chunk.css",
-    "static/js/main.86ebeee9.chunk.js"
+    "static/js/main.7f16a5e6.chunk.js"
   ]
 }
